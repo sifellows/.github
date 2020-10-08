@@ -3,11 +3,9 @@
     "description": "Anchore Scanning workflow template.",
     "iconName": "anchore",
     "categories": [
-        "Go"
+        "Eocker"
     ],
     "filePatterns": [
-        "package.json$",
         "^Dockerfile",
-        ".*\\.md$"
     ]
 }
