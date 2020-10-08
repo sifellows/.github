@@ -1,0 +1,13 @@
+{
+    "name": "Anchore Scanning Workflow",
+    "description": "Anchore Scanning workflow template.",
+    "iconName": "anchore",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
