@@ -6,6 +6,6 @@
         "Eocker"
     ],
     "filePatterns": [
-        "^Dockerfile",
+        "Dockerfile",
     ]
 }
