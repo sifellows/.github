@@ -3,9 +3,6 @@
     "description": "Anchore Scanning workflow template.",
     "iconName": "anchore",
     "categories": [
-        "Eocker"
+        "Dockerfile"
     ],
-    "filePatterns": [
-        "Dockerfile",
-    ]
 }
