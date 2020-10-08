@@ -1,0 +1,11 @@
+{
+    "name": "Snyk Scanner Workflow",
+    "description": "Snyk Scanner workflow template.",
+    "iconName": "snyk",
+    "categories": [
+        "Docker"
+    ],
+    "filePatterns": [
+        "^Dockerfile",
+    ]
+}
